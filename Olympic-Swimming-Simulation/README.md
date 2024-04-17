@@ -1,3 +1,5 @@
+# Olympic Swimming Simulation
+
 This program creates a graphic simulation of the swimming races of the Tokyo 2020 Summer Olympics. It creates
 the simulation by reading a special type of file ending in .swm. To run the program, the user must call the
 run function, which takes in a tick interval, pixels per meter, and a path leading to a directory of .swm files.
